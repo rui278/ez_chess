@@ -1,4 +1,4 @@
-import * from 'chrisoakman/chessboardjs';
+import {} from '@chrisoakman/chessboardjs';
 
 function mkboard(boardID){
 
